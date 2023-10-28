@@ -12,6 +12,6 @@
 # Инструкция по работе
 Скачать код в GitHub под названием '6 задание.py'. Запустить код. Затем появится интефейс. Вводим любое количество критериев, какое пожелаем. После этого попарно сравниваем эти критерии друг с другом от 1 до 10 и выводим результат.
 # Результаты тестирования
-![Alt-текст](https://github.com/EduardSabr/Rabota05/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
-![Alt-текст](https://github.com/EduardSabr/Rabota05/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
-![Alt-текст](https://github.com/EduardSabr/Rabota05/blob/main/3%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota06/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota06/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota06/blob/main/3%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
