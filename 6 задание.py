@@ -3,6 +3,7 @@ from tkinter import *
 def num1():
     # Создаем основное окно
     window = Tk()
+    # Создаем и размещаем текстовое поле для ввода количества критериев
     numl = Label(window, text="Введите количество критериев:")
     numl.pack()
     numlentry = Entry(window)
