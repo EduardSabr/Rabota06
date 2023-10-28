@@ -1,6 +1,7 @@
 from tkinter import *
-
+# Функция для создания графического интерфейса
 def num1():
+    # Создаем основное окно
     window = Tk()
     numl = Label(window, text="Введите количество критериев:")
     numl.pack()
